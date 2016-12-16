@@ -1,0 +1,11 @@
+
+#Head{
+	text-align: Center;
+	color: #0080ff;
+	font-family: Verdana;
+}
+
+#HeadHR{
+	border-width: 1px;
+	color: #0080ff;
+}
