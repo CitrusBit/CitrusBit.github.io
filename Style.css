@@ -9,3 +9,20 @@
 	border-width: 1px;
 	color: #0080ff;
 }
+
+#BodyHead{
+	font-family: Courier New;
+	font-size: 200%
+	
+}
+
+#Caption{
+	font-family: Courier New;
+	color: #0080ff;
+	font-size: 75%;
+	left: 25%;
+}
+
+#Body{
+	font-family: Courier New;
+}
